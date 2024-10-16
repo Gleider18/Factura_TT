@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zenject", "Zenject.csproj", "{1120d91a-213d-3d70-628d-6fc05d1c3efc}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zenject-Editor", "Zenject-Editor.csproj", "{3b4729d8-7515-b369-a1b6-5b8f59f684c9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3ea465eb-4197-322b-07de-d5521d7e1280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{477e5ae1-5e05-8a8f-af18-c280ee02794b}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1120d91a-213d-3d70-628d-6fc05d1c3efc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1120d91a-213d-3d70-628d-6fc05d1c3efc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3b4729d8-7515-b369-a1b6-5b8f59f684c9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3b4729d8-7515-b369-a1b6-5b8f59f684c9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ea465eb-4197-322b-07de-d5521d7e1280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ea465eb-4197-322b-07de-d5521d7e1280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477e5ae1-5e05-8a8f-af18-c280ee02794b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477e5ae1-5e05-8a8f-af18-c280ee02794b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
